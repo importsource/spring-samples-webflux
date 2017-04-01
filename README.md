@@ -2,6 +2,6 @@
 webflux demo
 
 
-### sse using regular webmvc:
+### SSE using regular webmvc:
 
 https://github.com/importsource/spring-samples-sse-webmvc
